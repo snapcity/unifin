@@ -37,7 +37,7 @@ public class hello {
   @Produces(MediaType.TEXT_HTML)
   public String sayHtmlHello() {
     return "<html> " + "<title>" + "Hello Jersey" + "</title>"
-        + "<body><h1>" + "Hello Jersey Projeto RESTFul" + "</body></h1>" + "</html> ";
+        + "<body><h1>" + "Hello Jersey Projeto RESTFul SnapCity" + "</body></h1>" + "</html> ";
   }
 
 } 
